@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tp01.LoginUI">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Label  HorizontalOptions="Center">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span TextColor="Blue" Text="Aplicação Teste"/>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+
+            <Entry x:Name="txtUserName" Placeholder="ID" TextColor="Blue"></Entry>
+            <Entry x:Name="txtPassword" Placeholder="Pass" IsPassword="True" TextColor="Blue"></Entry>
+
+            <Button
+                VerticalOptions="Center"
+                Text="OK"
+                BackgroundColor="Transparent"
+                BorderColor="Blue"
+                BorderWidth="1.5"
+                CornerRadius="50"
+                Clicked="Button_Ok"/>
+
+            <Button
+                VerticalOptions="Center"
+                Text="LIMPAR"
+                BackgroundColor="Transparent"
+                BorderColor="Blue"
+                BorderWidth="1.5"
+                CornerRadius="50"
+                Clicked="Button_Limpar"/>
+
+            <Button
+                VerticalOptions="Center"
+                Text="Créditos"
+                BackgroundColor="Transparent"
+                BorderColor="Blue"
+                BorderWidth="1.5"
+                CornerRadius="50"
+                Clicked="Button_Creditos"/>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

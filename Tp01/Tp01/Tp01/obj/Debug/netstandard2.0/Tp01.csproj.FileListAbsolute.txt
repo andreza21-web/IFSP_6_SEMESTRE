@@ -1,0 +1,16 @@
+C:\Ambiente\projetos\6-semestre\Tp01\Tp01\Tp01\bin\Debug\netstandard2.0\Tp01.deps.json
+C:\Ambiente\projetos\6-semestre\Tp01\Tp01\Tp01\bin\Debug\netstandard2.0\Tp01.dll
+C:\Ambiente\projetos\6-semestre\Tp01\Tp01\Tp01\bin\Debug\netstandard2.0\Tp01.pdb
+C:\Ambiente\projetos\6-semestre\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\Tp01.csproj.AssemblyReference.cache
+C:\Ambiente\projetos\6-semestre\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\Tp01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ambiente\projetos\6-semestre\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Ambiente\projetos\6-semestre\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\LoginUI.xaml.g.cs
+C:\Ambiente\projetos\6-semestre\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Ambiente\projetos\6-semestre\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\Tp01.AssemblyInfoInputs.cache
+C:\Ambiente\projetos\6-semestre\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\Tp01.AssemblyInfo.cs
+C:\Ambiente\projetos\6-semestre\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\Tp01.csproj.CoreCompileInputs.cache
+C:\Ambiente\projetos\6-semestre\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Ambiente\projetos\6-semestre\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\Tp01.dll
+C:\Ambiente\projetos\6-semestre\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\refint\Tp01.dll
+C:\Ambiente\projetos\6-semestre\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\Tp01.pdb
+C:\Ambiente\projetos\6-semestre\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\ref\Tp01.dll
